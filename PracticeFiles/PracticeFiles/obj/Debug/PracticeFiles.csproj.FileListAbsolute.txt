@@ -1,0 +1,9 @@
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\bin\Debug\PracticeFiles.exe.config
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\bin\Debug\PracticeFiles.exe
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\bin\Debug\PracticeFiles.pdb
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.csprojAssemblyReference.cache
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.Form1.resources
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.Properties.Resources.resources
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.csproj.GenerateResource.cache
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.exe
+C:\Users\Emily\Desktop\PracticeFiles\PracticeFiles\obj\Debug\PracticeFiles.pdb

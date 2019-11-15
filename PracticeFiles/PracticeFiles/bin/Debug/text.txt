@@ -1,0 +1,4 @@
+Hello!
+ My name is Emily.
+ This note app was built with C#.
+
